@@ -1,5 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="![image](https://github.com/nbekposynov/AndersonLab/assets/63286544/32c49d00-c48e-4d4a-8005-eeef96aae296)
-" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/nbekposynov/AndersonLab/assets/63286544/32c49d00-c48e-4d4a-8005-eeef96aae296" width="400" alt="Project Logo"></a></p>
 
 # Laravel Project
 
