@@ -1,4 +1,5 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fposts%2Fvictoria-vasylenko_react-andersen-activity-6667641696483848192-qWrP&psig=AOvVaw0r6ZY2vPcA68I6_n4wdqfr&ust=1719237319533000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCl8Z7w8YYDFQAAAAAdAAAAABAh" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="![image](https://github.com/nbekposynov/AndersonLab/assets/63286544/32c49d00-c48e-4d4a-8005-eeef96aae296)
+" width="400" alt="Laravel Logo"></a></p>
 
 # Laravel Project
 
