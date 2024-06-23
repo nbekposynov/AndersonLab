@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Services\MessageService;
 use Illuminate\Http\Request;
 
+
+//I used Dependency Injection in this case
 class MessageController extends Controller
 {
     protected $messageService;

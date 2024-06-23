@@ -7,6 +7,8 @@ use Illuminate\Http\Request;
 
 class MessageService
 {
+
+    //Method for CreateMessage with simple validation
     public function validateAndCreateMessage(Request $request)
     {
         $request->validate([
