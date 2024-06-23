@@ -20,12 +20,6 @@ class MessageService
 
     public function getAllMessages()
     {
-        $messages = Message::all();
-    
-        foreach ($messages as $message) {
-            $message->formatted_date = $message->created_at->format('d.m.Y H:i');
-        }
-    
-        return $messages;
+        return Message::all();
     }
 }
